@@ -32,4 +32,17 @@ To use the Bitcoin Arbitrage application simply clone the repository and run the
 python crypto_arbitrage.ipynb
 ```
 
+The resulting plots will indicate the potential arbitrage profits we could have earned on that specific date:
+**January 28, 2018:**
+
+![January 28, 2018](Images/jan_28_plot.png)<br>
+
+**February 24, 2018**
+
+![February 24, 2018](Images/feb_24_plot.png)<br>
+
+**March 14, 2018**
+
+![March 14, 2018](Images/mar_14_plot.png)
+
 ---
