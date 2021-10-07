@@ -23,3 +23,13 @@ from pathlib import Path
 ```
 
 ---
+
+## Usage
+
+To use the Bitcoin Arbitrage application simply clone the repository and run the **crypto_arbitrage.ipynb** with:
+
+```python
+python crypto_arbitrage.ipynb
+```
+
+---
