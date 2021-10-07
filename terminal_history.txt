@@ -1,0 +1,55 @@
+  265  git commit -m "Answered the data analysis question about the trends of the 3 trading days"
+  266  git status
+  267  git push origin main
+  268  git status
+  269  git add -A
+  270  git status
+  271  git commit -m "Added title section and description to README.md"
+  272  git status
+  273  git push origin main
+  274  git status
+  275  git add -A
+  276  git status
+  277  git commit -m "Added Technologies section to README.md"
+  278  git status
+  279  git push origin main
+  280  git status
+  281  it add -A
+  282  git add -A
+  283  git status
+  284  git commit -m "Corrected Technologies section to stack on top of each other"
+  285  git status
+  286  git push origin main
+  287  git status
+  288  git add -A
+  289  git status
+  290  git commit -m "Added Installation Guide section to README.md"
+  291  git status
+  292  git push origin main
+  293  git status
+  294  git add -A
+  295  git status
+  296  git commit -m "Added Usage section to README.md"
+  297  git status
+  298  git push origin main
+  299  git status
+  300  git add -A
+  301  git status
+  302  git commit -m "Added images to the Usage section to display what to expect form the app"
+  303  git status
+  304  git push origin main
+  305  git status
+  306  git add -A
+  307  git status
+  308  git commit -m "Added Contributors section to README.md"
+  309  git status
+  310  git push origin main
+  311  git status
+  312  git add -
+  313  agit add -A
+  314  git add -A
+  315  git status
+  316  git commit -m "Added License section to README.md"
+  317  git status
+  318  git push origin main
+  319  history 55 > terminal_history.txt
