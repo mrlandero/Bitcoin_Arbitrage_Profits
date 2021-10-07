@@ -56,3 +56,6 @@ From these images we can tell that the first day of trading, Jan. 28, 2018 would
 
 ---
 
+## License
+
+MIT
