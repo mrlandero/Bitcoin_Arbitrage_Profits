@@ -45,4 +45,14 @@ The resulting plots will indicate the potential arbitrage profits we could have 
 
 ![March 14, 2018](Images/mar_14_plot.png)
 
+From these images we can tell that the first day of trading, Jan. 28, 2018 would have provided bigger arbitrage potential profits. 
+
 ---
+
+## Contributors
+
+**Created by:** Tony Landero<br>
+**Email Adress:** mr.landero@gmail.com
+
+---
+
